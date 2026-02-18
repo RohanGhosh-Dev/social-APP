@@ -1,0 +1,45 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+*.sln.cache
+
+# DotNet Files
+project.lock.json
+project.fragment.lock.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# User Secrets
+secrets.json
+
+# Log Files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variable files
+.env
+
+# Database Files
+*.db
+*.sqlite
+
+# Visual Studio Code Files
+.vscode/
+*.code-workspace
+
+# Other files to ignore
+Thumbs.db
+.idea/
